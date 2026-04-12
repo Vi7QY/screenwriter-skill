@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green.svg)](https://agentskills.io)
-[![Iron Rules](https://img.shields.io/badge/Iron%20Rules-37-blue.svg)](#创作铁律)
+[![Iron Rules](https://img.shields.io/badge/Iron%20Rules-38-blue.svg)](#创作铁律)
 
 [中文](#概述) | [English](#overview)
 
@@ -107,7 +107,7 @@ git clone https://github.com/你的用户名/screenwriter-skill.git
 
 ## 创作铁律
 
-本 Skill 内置 **37 条创作铁律**，全部来自实战项目和爆款拆解。
+本 Skill 内置 **38 条创作铁律**，全部来自实战项目和爆款拆解。
 
 以下是部分示例（完整版见 [SKILL.md](SKILL.md)）：
 
@@ -127,7 +127,7 @@ git clone https://github.com/你的用户名/screenwriter-skill.git
 
 铁律分六大类：
 - 📐 结构与节奏（11条）
-- 👤 角色与人设（9条）
+- 👤 角色与人设（10条）
 - 💬 台词与表达（3条）
 - 🔥 爽感与情绪（5条）
 - 💕 感情线（4条）
@@ -249,7 +249,7 @@ After installation, say "review this script" or "审剧本" to activate.
 
 ### 37 Iron Rules
 
-The skill includes 37 battle-tested creative rules across 6 categories: Structure & Pacing, Characters, Dialogue, Emotional Payoff, Romance, and World-building. All rules are derived from real production experience and hit show analysis.
+The skill includes 38 battle-tested creative rules across 6 categories: Structure & Pacing, Characters, Dialogue, Emotional Payoff, Romance, and World-building. All rules are derived from real production experience and hit show analysis.
 
 **Full documentation in Chinese.** English translation contributions welcome!
 
