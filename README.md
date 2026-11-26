@@ -2,6 +2,10 @@
 
 # 🎬 screenwriter-skill
 
+<!-- yarkr:badges:start -->
+[![Indexed on Yarkr](https://api.yarkr.com/functions/v1/api/api/v1/badges/repos/Vi7QY/screenwriter-skill/version.svg)](https://yarkr.com/arks/vi7qy/screenwriter-skill)
+<!-- yarkr:badges:end -->
+
 ### 短剧/漫剧编剧审稿 AI Skill
 
 **让 AI 用专业编剧的标准帮你审剧本**
@@ -246,6 +250,38 @@ cd ~/.claude/skills/ && git clone https://github.com/YOUR_USERNAME/screenwriter-
 ```
 
 After installation, say "review this script" or "审剧本" to activate.
+
+<!-- yarkr:install:start -->
+### Install with Yarkr
+
+This repo is indexed on [Yarkr](https://yarkr.com/arks/vi7qy/screenwriter-skill) as the ark [vi7qy/screenwriter-skill](https://yarkr.com/arks/vi7qy/screenwriter-skill), so its skills install into Claude Code, Codex, Cursor and other agent harnesses with one command.
+
+#### CLI
+
+Install the whole ark, which Yarkr keeps equal to this repo:
+
+```bash
+npx yarkr-cli sync vi7qy/screenwriter-skill
+```
+
+Or add individual skills:
+
+```bash
+npx yarkr-cli add skill:vi7qy/screenwriter-skill/unnamed
+```
+
+No Node.js? `curl -fsSL https://yarkr.com/install.sh | sh` (macOS, Linux) or `irm https://yarkr.com/install.ps1 | iex` (Windows PowerShell) installs `yarkr` as a standalone binary; then type `yarkr` in place of `npx yarkr-cli`.
+
+#### MCP
+
+Connect your agent to the ark over MCP:
+
+```bash
+npx yarkr-cli mcp add vi7qy/screenwriter-skill
+```
+
+Or point any MCP client at `https://api.yarkr.com/functions/v1/api/mcp/o/vi7qy/screenwriter-skill`.
+<!-- yarkr:install:end -->
 
 ### 37 Iron Rules
 
